@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.fangsea</groupId>
-    <artifactId>exchange-market-kline</artifactId>
+    <artifactId>blockchain-exchange-market-kline</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
