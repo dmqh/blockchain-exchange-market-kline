@@ -12,7 +12,7 @@
         <okhttp3.version>3.12.1</okhttp3.version>
         <lombok.version>1.18.10</lombok.version>
         <log.version>1.7.30</log.version>
-        <poi.version>3.9</poi.version>
+        <poi.version>4.1.2</poi.version>
         <slf4j-version>1.7.21</slf4j-version>
     </properties>
 
