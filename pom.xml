@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <okhttp3.version>3.12.1</okhttp3.version>
+        <okhttp3.version>4.9.2</okhttp3.version>
         <lombok.version>1.18.10</lombok.version>
         <log.version>1.7.30</log.version>
         <poi.version>4.1.2</poi.version>
